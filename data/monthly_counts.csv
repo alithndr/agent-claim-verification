@@ -1,0 +1,5 @@
+month,run_start,claimed_write_no_call,claimed_write_unrecovered,claimed_citation_no_read,claimed_citation_unverified,fabricated_tool_transcript,fabrication_block
+2026-08,552,49,10,25,4,1,10
+2026-09,1215,88,24,76,20,12,24
+2026-10,993,38,17,44,13,9,17
+2026-11,409,12,4,17,7,0,4
